@@ -4,7 +4,6 @@
   background: linear-gradient(45deg, #034d00 0%, #00d604 33%, #00a703 67%, #034d00 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
 }
 
 html {
@@ -37,18 +36,6 @@ ul {
 
 .right-column {
   float: none;
-}
-
-.experience {
-  font-size: 24px;
-}
-
-.education {
-  font-style: italic;
-}
-
-.skills li {
-  font-style: normal;
 }
 
 .date {
