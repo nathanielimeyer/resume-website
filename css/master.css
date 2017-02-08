@@ -1,0 +1,39 @@
+* {
+  font-family: fantasy;
+  /** background-color: #dbae5b; **/
+  background: linear-gradient(45deg, #034d00 0%, #00d604 33%, #00a703 67%, #034d00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+html {
+  background-image: url("../img/parchment.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+.contact {
+  text-align: center;
+  line-height: 8px;
+}
+
+.contact h1 {
+  line-height: 16px;
+}
+
+.position {
+  font-size: 24px;
+}
+
+ul {
+  text-align: center;
+}
+
+.left-column {
+  float: left;
+}
+
+.right-column {
+  float: none;
+}
